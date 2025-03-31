@@ -1,0 +1,36 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+    background-color:#b2d2ff;
+}
+.image{
+    text-align:center;
+    height:auto;
+    width:auto;
+}
+
+.heading {
+    text-align: center;
+    color:green;
+}
+
+h1{
+    text-align: center;
+    color:#2f3b4e;
+}
+
+.ingredients {
+    color:crimson;
+}
+
+.welcome-message {
+    color:green;
+}
+
+p {
+    color:#2f3b4e;
+}
+
+
+.steps {
+    color:darkviolet;
+}
